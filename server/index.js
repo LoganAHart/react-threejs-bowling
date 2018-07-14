@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const morgan = require('morgan');
 const debug = require('debug')('app:*');
 
-const name = 'React-Bowling';
+const name = 'React-ThreeJS-Bowling';
 
 debug(`booting %o ${name}`);
 
